@@ -19,7 +19,10 @@
 
 <img src="https://i.stack.imgur.com/DMc6Q.png" />
 
+## **_This is good code because the $_POST['data'] well used._**
 
 ## Example of code error and error code :
 
 <img src="https://www.eclipse.org/pdt/img/shot5-min.png" />
+
+## **_This is bad code because the code was not optimize._**
